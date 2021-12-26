@@ -1,0 +1,12 @@
+{
+  "prefix" : "+",
+  "token": "",
+  "invite":"",
+  "db": "mongodb+srv://Kabin:bubulmama1234@cluster0.bqsrc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "sname": "Nexus",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN"
+
+  
+  }
